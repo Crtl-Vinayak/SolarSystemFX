@@ -1,0 +1,18 @@
+/**
+ * 
+ * @author vinay
+ *
+ */
+
+#rootBody {
+	-fx-border-width: 5;
+	-fx-border-color: #1f1f1f;
+}
+#userInputBody {
+	-fx-background-color: #787878;
+	-fx-border-width: 0 0 0 5;
+	-fx-border-color: #1f1f1f;
+}
+#solarSystemBody {
+	-fx-background-color: #00001c;
+}
